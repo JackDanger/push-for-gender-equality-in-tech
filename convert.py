@@ -46,7 +46,7 @@ conversions = [
     Conversion('computers, games, consoles', 'analysis, candlestick charts, futures'),
     Conversion('engineering', 'investing'),
 
-    Conversion('they uniquely face', 'they uiquely face, difficulties that underrepresented groups can easily sympathize with'),
+    Conversion('they uniquely face', 'they uniquely face, difficulties that underrepresented groups can easily sympathize with'),
 ]
 
 translated = contents
