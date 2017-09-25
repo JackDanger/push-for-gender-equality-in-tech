@@ -19,12 +19,12 @@ conversions = [
     Conversion('female', 'black'),
 
     Conversion('woman', 'black person'),
-    Conversion('women', 'blacks'),
+    Conversion('women', 'black people'),
     Conversion('man', 'white man'),
-    Conversion("men’s", "whites’"),
-    Conversion('men', 'whites'),
+    Conversion("men’s", "white people’s"),
+    Conversion('men', 'white people'),
     Conversion('white white man', 'white man'),  # Heh, a little too on-the-nose
-    Conversion('Men', 'Whites'),
+    Conversion('Men', 'White people'),
     Conversion('Male', 'White'),
 
     Conversion('gender', 'race'),
