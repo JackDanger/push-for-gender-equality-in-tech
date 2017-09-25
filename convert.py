@@ -20,7 +20,6 @@ conversions = [
 
     Conversion('woman', 'black person'),
     Conversion('women', 'blacks'),
-    Conversion('woman', 'black person'),
     Conversion('man', 'white man'),
     Conversion("men’s", "whites’"),
     Conversion('men', 'whites'),
