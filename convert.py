@@ -21,6 +21,7 @@ conversions = [
     Conversion('woman', 'black person'),
     Conversion('women', 'black people'),
     Conversion('man', 'white man'),
+    Conversion("men’s rights", "white rights"),
     Conversion("men’s", "white people’s"),
     Conversion('men', 'white people'),
     Conversion('white white man', 'white man'),  # Heh, a little too on-the-nose
