@@ -31,9 +31,9 @@ conversions = [
     Conversion('sexes', 'races'),
     Conversion('feminists', 'civil rights workers'),
     Conversion('feminist', 'civil rights worker'),
+
     Conversion('technology', 'banking'),
     Conversion('tech', 'banking'),
-
     Conversion('Mgtow', 'Wgtow'),
     Conversion('MIG-tow', 'WIG-tow'),
     Conversion('marriage', 'mixing'),
