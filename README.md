@@ -1,6 +1,6 @@
 # Transparency in language
 
-This project replaces words in (a NYT article)[https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html] that relate to gender with similar words that relate to race.
+This project replaces words in [a NYT article](https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html) that relate to gender with similar words that relate to race.
 
 Published [on Medium](https://medium.com/jackdanger)
 
